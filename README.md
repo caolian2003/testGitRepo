@@ -1,6 +1,5 @@
 
 #  Yoribogo (요리보고)
-![표지]
 # "AI 기반 레시피 추천 서비스 Yoribogo" 4vengers - devops project
 | 메뉴 선택에 어려움을 겪는다면 Yoribogo!!
 
