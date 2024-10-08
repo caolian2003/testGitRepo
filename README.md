@@ -9,7 +9,7 @@
 ## 🤝TEAM
 | <img src="docs/img/profile/최해관.jpg" width="200" height = "160">|<img src="docs/img/profile/유혜진.jpg" width="200" height = "160">|<img src="docs/img/profile/장민근.png" width="200" height = "160">|<img src="docs/img/profile/이우진.jpeg" width="200" height = "160">|<img src="docs/img/profile/김동혁.jpg" width="200" height = "160">|<img src="docs/img/profile/김정모.jpg" width="200" height = "160"> |
 | :------------------------------------: | :-------------------------------------: | :-----------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------------: |
-| [🦖경희](https://github.com/iwillbfine) | [🐰장민근](https://github.com/caolian2003) | [😇조창욱](https://github.com/Chochanguk) | [👀최해관](https://github.com/Haegwan-Choe) | [😺윤채연](https://github.com/yncayn) | [🐶전기범](https://github.com/woodart8)
+| [🦖박경희](https://github.com/iwillbfine) | [🐰장민근](https://github.com/caolian2003) | [😇조창욱](https://github.com/Chochanguk) | [👀최해관](https://github.com/Haegwan-Choe) | [😺윤채연](https://github.com/yncayn) | [🐶전기범](https://github.com/woodart8)
 <br>
 
 ## 기획 배경
