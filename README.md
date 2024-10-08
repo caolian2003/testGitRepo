@@ -11,6 +11,22 @@
 | [🦖박경희](https://github.com/iwillbfine) | [🐰장민근](https://github.com/caolian2003) | [😇조창욱](https://github.com/Chochanguk) | [👀최해관](https://github.com/Haegwan-Choe) | [😺윤채연](https://github.com/yncayn) | [🐶전기범](https://github.com/woodart8)
 <br>
 
+## 🛠️기술스택
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Vue.js](https://img.shields.io/badge/vue3-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![json_server ](https://img.shields.io/badge/json_server-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)
+
+## 📢협업 툴
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
+## 📋전체 프로젝트 일정
+**프로젝트 일정 : 2024년 9월 23일 ~ 2024년 09월 30일**
+
 ## 기획 배경
 ![기획 소개 - 현재 ooo 트랜드 (1)](https://)
 > 메뉴고민, 배달/외식/밀키트 , ...<br>
