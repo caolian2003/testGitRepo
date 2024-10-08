@@ -1,7 +1,15 @@
 
 #  Yoribogo (요리보고)
 ![표지]
-> 4조: 조창욱, 최해관, 박경희, 장민근, 윤채연, 전기범
+# "AI 기반 레시피 추천 서비스 Yoribogo" 4vengers - devops project
+| 메뉴 선택에 어려움을 겪는다면 Yoribogo!!
+
+<img width="925" alt="스크린샷 2024-09-05 오전 9 11 58" src="https://github.com/user-attachments/assets/ffd048ab-f1b5-4910-a58a-8a9dc7a28c1d">
+
+## 🤝TEAM
+| <img src="docs/img/profile/최해관.jpg" width="200" height = "160">|<img src="docs/img/profile/유혜진.jpg" width="200" height = "160">|<img src="docs/img/profile/장민근.png" width="200" height = "160">|<img src="docs/img/profile/이우진.jpeg" width="200" height = "160">|<img src="docs/img/profile/김동혁.jpg" width="200" height = "160">|<img src="docs/img/profile/김정모.jpg" width="200" height = "160"> |
+| :------------------------------------: | :-------------------------------------: | :-----------------------------------: | :--------------------------------------: | :-----------------------------------: | :------------------------------------------: |
+| [🦖최해관](https://github.com/Haegwan-Choe) | [🐰유혜진](https://github.com/yuhyejin) | [😇장민근](https://github.com/caolian2003) | [👀이우진](https://github.com/Vorschlag-bit) | [😺김동혁](https://github.com/dongkh9) | [🐶김정모](https://github.com/mojeeeeong) |
 <br>
 
 ## 기획 배경
