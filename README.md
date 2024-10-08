@@ -23,7 +23,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+<hr>
 ## 📋전체 프로젝트 일정
 **프로젝트 일정 : 2024년 9월 23일 ~ 2024년 09월 30일**
 
