@@ -38,20 +38,20 @@
 | <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white"> &nbsp; | <img src="https://img.shields.io/badge/DA%23-0B6121.svg?style=flat&logo=draw.io&logoColor=white"> &nbsp; | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=flat&logo=intellij-idea&logoColor=white) | ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=flat&logo=visual-studio-code&logoColor=white) |
 
 
-# 프로젝트 개요 <a id="프로젝트-개요"></a>
+# 프로젝트 개요
 
 ---
 
-## 1. 배경 <a id="1-배경"></a>
+## 1. 배경 
 
 1. 
 2. 
 
-## 2. 서비스 목표 <a id="2-서비스-목표"></a>
+## 2. 서비스 목표 
 
 > 
 
-## 3. 차별점 <a id="3-차별점"></a>
+## 3. 차별점
 
 |         | 팀원모집 | 일정관리 | 문제 출제 | 일정관리 |
 | ------- | -------- | -------- | --------- | -------- |
@@ -60,17 +60,17 @@
 | 공작소  | ㅇ       | ㅇ       |           | ㅇ       |
 | SGMA    | ㅇ       | ㅇ       | ㅇ        | ㅇ       |
 
-## 4. 핵심 기능 <a id="4-핵심-기능"></a>
+## 4. 핵심 기능
 
 1. 
 2. 
 3. 
 
-## 5. 기대 효과 <a id="5-기대-효과"></a>
+## 5. 기대 효과
 
 > 
 
-# 설계 문서 <a id="설계-문서"></a>
+# 설계 문서
 
 ---
 
