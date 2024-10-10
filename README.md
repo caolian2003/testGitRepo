@@ -1,51 +1,13 @@
-# SGMA
+# 4vengers
 
-# 목차
-
-1. [팀 소개](#팀-소개)
-2. [기술 스택](#기술-스택)
-   - [Backend](#1-backend)
-   - [Security](#2-security)
-   - [Frontend](#3-frontend)
-   - [Tool](#4-tool)
-3. [프로젝트 개요](#프로젝트-개요)
-   - [배경](#1-배경)
-   - [서비스 목표](#2-서비스-목표)
-   - [차별점](#3-차별점)
-   - [핵심 기능](#4-핵심-기능)
-   - [기대 효과](#5-기대-효과)
-4. [설계 문서](#설계-문서)
-   - [System Architecture](#system-architecture)
-   - [주요 기능 FLOW CHART](#주요-기능-flow-chart)
-   - [OAuth 2.0 Sequence Diagram](#OAuth2SequenceDiagram)
-   - [DDD](#ddd)
-     - [Event Storming](#1-event-storming)
-     - [Bounded Context](#2-bounded-context)
-   - [DB 모델링](#db-모델링)
-     - [개념 모델링](#1-개념-모델링)
-     - [논리 모델링](#2-논리-모델링)
-     - [물리 모델링](#3-물리-모델링)
-5. [산출물](#산출물)
-   - [와이어 프레임](#와이어프레임)
-   - [스토리 보드](#스토리보드)
-   - [기능명세서](#기능명세서)
-   - [테스트 케이스](#테스트케이스)
-   - [화면결과](#화면결과)
-
-- [동료 평가](#동료평가)
-
----
-
-## Team _Spring-Cooler_<a id="팀-소개"></a>
-
-> 스프링을 더 멋지게
+## Team _4vengers_<a id="팀-소개"></a>
 
 [<img src="https://img.shields.io/badge/Notion-Link-333333?logo=Notion">](https://amber-vise-de0.notion.site/3-_-1da69b5acbe84d79be8e57bbf7cd7cee)
 | <img src="https://github.com/user-attachments/assets/00ef7243-5ac8-4f3a-8b43-2271ee79665c" height="100"/> | <img src="https://github.com/user-attachments/assets/018f5c1c-7b3e-4767-a8b7-415c871e1e63" height="100"/> | <img src="https://github.com/3-Minutes-Query/choleeTest/assets/102345450/1046b24a-5d40-4dc1-a747-cb65f20dc764" height="100"/> | <img src="https://github.com/user-attachments/assets/3459263f-3864-4d69-a427-1578eaa984ce" height="100"/> |
 | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------ |
 | 박경희 | 윤채연 | 전기범 | 장민근 | 조창욱 | 최해관 | 
-| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/Chochanguk) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/1etterh) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/minseokKim6823) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) |
-| ESTJ | ISTP | ESTP | INFJ |
+| [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/iwillbfine) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/yncayn) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/caolian2003) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) | [<img src="https://img.shields.io/badge/Github-Link-181717?logo=Github">](https://github.com/woodart8) |
+| ESTJ | ISTP | ESTP | INFJ | EEEE | EEEE |
 
 ---
 
